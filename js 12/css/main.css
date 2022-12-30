@@ -1,0 +1,624 @@
+footer{
+    color: #FAFAFA;
+    display: block;
+    letter-spacing: 0.2px;
+    position: absolute;
+    width: 1440px;
+    height: 74px;
+    left: calc(50% - 1600px/2);
+    top: 272px;
+}
+   
+   
+    
+
+
+
+.margin{
+    margin-top: 60px;
+    margin-bottom: 0px;
+    bottom: 0px;
+}
+
+
+
+/* ////////////////////////////////////////////////////////////////////// */
+.fa-solid{
+    color: #96BB7C;
+    margin-right: 25px;
+    font-size: 20px;
+}
+
+.end{
+    column-count: 5;
+  margin-top: 150px;
+
+
+  
+}
+
+.end p{
+  margin-top: 20px;
+}
+
+
+
+/* ////////////////////////////////////////////////////////////////////// */
+.news h6{
+    color: #96BB7C;
+    margin-bottom: 10px;
+}
+
+.news{
+    margin-top: 100px;
+}
+
+.news h1{
+    margin-bottom: 10px;
+}
+
+.sub{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+    border-radius: none;
+}
+
+.btn5{
+    background-color: #96BB7C;
+    padding-top: 7px;
+    border: none;
+    padding-bottom: 7px;
+}
+
+
+
+
+/* ////////////////////////////////////////////////////////////////////////////// */
+
+.team h6{
+    color: #96BB7C;
+}
+
+
+.team{
+  
+    margin-top: 100px;
+
+}
+
+
+.row3{
+    margin-top: 100px;
+
+}
+
+#book1{
+    margin-right: 10px;
+    color: #96BB7C;
+}
+
+#twit1{
+    margin-left: 10px;
+    color: #96BB7C;
+}
+
+#insta1{
+    color: #96BB7C;
+}
+
+.card-img-top3{
+    box-shadow: 0px 13px 19px rgba(0, 0, 0, 0.07);
+}
+
+.card-img-top4{
+    box-shadow: 0px 13px 19px rgba(0, 0, 0, 0.07);
+}
+
+.card-img-top5{
+    box-shadow: 0px 13px 19px rgba(0, 0, 0, 0.07);
+}
+
+.card-img-top5{
+    box-shadow: 0px 13px 19px rgba(0, 0, 0, 0.07);
+}
+
+
+
+/* //////////////////////////////////////////////////////////////////////////////// */
+
+.fa-star{
+    color:#F3CD03 ;
+}
+
+.teachers h6{
+
+color:#96BB7C;
+;
+
+}
+
+.teachers{
+    margin-top: 200px;
+}
+
+
+.row2{
+    margin-top: 100px;
+    margin-left: 100px;
+    
+    
+}
+
+.col-6{
+    border: none;
+}
+
+.card-img-top1{
+ padding-left: 100px;
+ padding-right: 100px;
+ padding-top: 50px;
+ margin-bottom: 50px;
+ border-radius:100px;
+ margin-top: 25px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 30vh;
+  
+  
+ 
+}
+
+
+
+
+.card-img-top2{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 50px;
+    margin-bottom: 50px;
+    border-radius:100px;
+    margin-top: 25px;
+     border-radius: 50%;
+     display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 30vh;
+     
+   }
+
+/* //////////////////////////////////////////////////////////////////////////// */
+.bg2{
+    background-color:#e2d6ff;
+}
+
+.signup{
+    width: 350px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    position: absolute;
+    color: #fff;
+    width: 350px;
+    float: right;
+    margin-left: 400px;
+    margin-top: 20px;
+    color: black;
+    
+}
+.signup h1{
+    font-size: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 35px 0;
+}
+.signup p{
+    font-size: 20px;
+    margin: 15px 0;
+}
+.signup input{
+    font-size: 16px;
+    width: 100%;
+    border: 0;
+    padding: 15px 10px;
+    outline: none;
+    border-radius: 5px;
+}
+.signup button{
+    font-size: 18px;
+    font-weight: bold;
+    margin: 20px 0;
+    padding: 10px 15px;
+    width: 50%;
+    border-radius: 5px;
+    border: 0;
+} 
+
+.cont{
+    margin-bottom: 35px;
+    font-size: 40px;
+}
+
+.pxi{
+    font-size: 14px;
+  
+}
+.contus{
+    margin-top: 600px;
+}
+
+.btnbtn{
+  font-size: 25px;
+  margin-right: 10px;
+}
+
+.btnbtn2{
+   padding-top: 5px;
+   padding-bottom: 5px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 5px;
+    border-style: none;
+    background-color: #5d00ff;
+}
+
+.linav11{
+    list-style-type: none;
+}
+
+
+.anav11{
+    font-size: 40px;
+    color: black;
+}
+
+.anav22{
+ 
+    color: black;
+}
+
+.anav33{
+   
+    color: black;
+}
+
+.anav44{
+    
+    color: black;
+}
+
+.anav55{
+    
+    color: black;
+}
+
+#lock{
+    font-size: 40px;
+    color: black;
+}
+
+#f{
+color: lightgrey;
+}
+
+#s{
+    color: lightgrey;
+    }
+    
+ #t{
+     color: lightgrey;
+ }   
+
+/* ////////////////////////////////////////////////////////////////////////////// */
+.bg1 {
+    background-color: #FFF2F3;
+}
+ 
+
+
+.banner{
+    margin-top: 300px;
+    margin-left: 132px;
+}
+
+.banner h6{
+    color: #96BB7C;
+}
+
+.banner h1 {
+    font-size: 58px;
+    line-height: 80px;
+    display: inline;
+
+}
+
+.banner p {
+    font-size: 20px;
+}
+
+
+.border{
+    width: 59px;
+    height: 8px;
+    background-color:#E74040 ;
+    color: #E74040;
+    
+}
+
+
+.btn1 {
+    
+    background-color: #96BB7C;
+    border-radius: 5px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 52px;
+    padding-left: 25px;
+    margin-top: 19px;
+    color: #FFFFFF;
+    border: none;
+
+}
+
+.btn2{
+    
+    background-color: #96BB7C;
+    border: none;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 5px;
+    margin-left: 20px;
+
+}
+
+.btn3{
+    border: solid 1px;
+    background-color:#FFF2F3;
+    color: #96BB7C;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 5px;
+}
+
+.btn4{
+    background: none;
+    border: none;
+    color: #96BB7C;
+    font-size: 14px;
+    margin-top: 35px;
+
+}
+
+
+.img {
+
+    background-image: url(../img/gogo\ magaria.png);
+    background-repeat: no-repeat;
+    height: 660px;
+    width: 850px;
+    float: right;
+    top: 0px;
+    border-radius: 0px;
+    margin-top: 200px;
+
+
+
+
+}
+
+.inav1 {
+
+
+    margin-left: 10px;
+    color: #FFFFFF;
+
+}
+
+.inav2{
+    margin-left: 10px;
+    color: #96BB7C;  
+}
+
+.anav1 {
+    margin-top: 30px;
+    font-size: 24px;
+}
+
+.anav2 {
+    margin-top: 33px;
+    margin-left: 47px;
+    color: #737373;
+    font-size: 14px;
+}
+
+.anav3 {
+    margin-top: 33px;
+    margin-left: 47px;
+    color: #737373;
+    font-size: 14px;
+}
+
+.anav4 {
+    margin-top: 33px;
+    margin-left: 47px;
+    color: #737373;
+    font-size: 14px;
+}
+
+.anav5 {
+    margin-top: 33px;
+    margin-left: 47px;
+    color: #737373;
+    font-size: 14px;
+}
+
+.anav6 {
+    color: #96BB7C;
+    font-size: 14px;
+}
+
+.linav1 {
+    list-style-type: none;
+    margin-top: 34px;
+    margin-right: 45px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media  (max-width:1400px)  {
+   
+
+    .sub{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 50vh;
+        border-radius: none;
+    }
+   
+    .card-img-top1{
+        padding-left: 100px;
+        padding-right: 100px;
+        padding-top: 50px;
+        margin-bottom: 50px;
+        border-radius:100px;
+        margin-top: 25px;
+         border-radius: 50%;
+         display: flex;
+         justify-content: center;
+         align-items: center;
+         height: 50vh;
+         
+         
+        
+       }
+       
+   
+   
+   
+   
+   
+    .card-img-top2{
+        padding-left: 100px;
+        padding-right: 100px;
+        padding-top: 50px;
+        margin-bottom: 50px;
+        border-radius:100px;
+        margin-top: 25px;
+         border-radius: 50%;
+         display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 50vh;
+         
+       }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .banner{ 
+    line-height: 60px;
+    display: inline;
+    }
+
+    .cont{
+        margin-bottom: 35px;
+    }
+    
+    
+    .contus{
+        margin-top: 200px;
+    }
+
+    .img {
+
+        background-image: url(../img/gogo\ magaria.png);
+        background-repeat: no-repeat;
+        height: 450px;
+        width: 650px;
+        float: right;
+        top: 0px;
+        border-radius: 0px;
+        margin-top: 100px;
+    
+    
+    
+    
+    }
+
+
+
+    .anav1 {
+        margin-top: 20px;
+        font-size: 24px;
+    }
+    
+    .anav2 {
+        margin-top: 22px;
+        margin-left: 37px;
+        color: #737373;
+        font-size: 14px;
+    }
+    
+    .anav3 {
+        margin-top: 22px;
+        margin-left: 37px;
+        color: #737373;
+        font-size: 14px;
+    }
+    
+    .anav4 {
+        margin-top: 22px;
+        margin-left: 37px;
+        color: #737373;
+        font-size: 14px;
+    }
+    
+    .anav5 {
+        margin-top: 22px;
+        margin-left: 37px;
+        color: #737373;
+        font-size: 14px;
+    }
+    
+    .anav6 {
+        color: #96BB7C;
+        font-size: 14px;
+    }
+    
+
+    .linav1 {
+        list-style-type: none;
+        margin-top: 34px;
+        margin-right: 45px;
+    
+    }
+   
+}
